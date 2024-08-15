@@ -1,9 +1,3 @@
-/**
- * Created by aarnavjindal on 07/05/20.
- */
-
-
-
 class TrieNode{
     constructor(){
         this.children = Array(10).fill(null);
